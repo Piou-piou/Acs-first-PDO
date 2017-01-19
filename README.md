@@ -1,2 +1,2 @@
 # Acs-first-PDO
-Explain PDO for first use by ACS students
+Correction of first PDO use for Access Code School (Marmier) in Besançon in France.
